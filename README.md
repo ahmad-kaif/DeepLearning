@@ -1,5 +1,5 @@
 # Deep Learning
-**When Traditional Machine Learning fails, Deep Learning comes into picture**
+**When Traditional Machine Learning fails, Deep Learning comes into picture.**
 **DL is a subset of ML, that is based on **Neural Netowrks****
 
 ## Structure of a Network Layer
